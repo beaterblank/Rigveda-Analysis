@@ -1,5 +1,7 @@
 # 🌤 Rigveda Word Cloud Visualization
 
+available at https://rigveda-analysis-production.up.railway.app/
+
 > *"Where words cluster, meaning emerges — may this visualization help illuminate the Rigveda’s vast poetic landscape."*
 
 An interactive **p5.js + FastAPI** application visualizing semantic **word clusters in the Rigveda**.  
